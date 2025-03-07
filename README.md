@@ -1,2 +1,2 @@
 # showtime
-aplicacion paecida a netflix
+aplicacion parecida a netflix
